@@ -10,25 +10,10 @@ execute:
 
 website:
 
-  title: "My Website"
+  title: "Test Website"
 
-  repo-url: https://github.com/lter/workshop-quarto
+  repo-url: https://github.com/rfrelat/webtest
   repo-actions: [issue]
-  navbar:
-    background: primary
-    left:
-      - text: "Index"
-        href: index.qmd
-      - text: "Page 1"
-        href: page1.qmd
-    right: 
-      - icon: github
-
-        href: https://github.com/lter/workshop-quarto
-  page-footer: 
-
-    center: "Copyright 2025, LTER Network"
-    background: secondary
 
 format:
   html:
