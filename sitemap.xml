@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rfrelat.github.io/webtest/page2.html</loc>
+    <lastmod>2025-06-26T08:59:17.889Z</lastmod>
+  </url>
+  <url>
     <loc>https://rfrelat.github.io/webtest/page1.html</loc>
-    <lastmod>2025-06-26T08:52:15.246Z</lastmod>
+    <lastmod>2025-06-26T08:59:17.889Z</lastmod>
   </url>
 </urlset>

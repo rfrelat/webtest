@@ -1,15 +1,29 @@
 [
   {
+    "objectID": "page2.html",
+    "href": "page2.html",
+    "title": "Test Website",
+    "section": "",
+    "text": "still empty"
+  },
+  {
+    "objectID": "page2.html#this-is-page-2",
+    "href": "page2.html#this-is-page-2",
+    "title": "Test Website",
+    "section": "",
+    "text": "still empty"
+  },
+  {
     "objectID": "page1.html",
     "href": "page1.html",
-    "title": "My Website",
+    "title": "Test Website",
     "section": "",
     "text": "empty"
   },
   {
     "objectID": "page1.html#this-is-page-1",
     "href": "page1.html#this-is-page-1",
-    "title": "My Website",
+    "title": "Test Website",
     "section": "",
     "text": "empty"
   }
