@@ -17,8 +17,10 @@ website:
   navbar:
     background: primary
     left:
-      - text: "Home"
+      - text: "Index"
         href: index.qmd
+      - text: "Page 1"
+        href: page1.qmd
     right: 
       - icon: github
 
